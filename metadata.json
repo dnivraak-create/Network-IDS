@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of NetGuard AI - IDS",
+  "description": "Educational Network Intrusion Detection System using Machine Learning to detect DoS, ARP Spoofing, and Port Scanning.",
+  "requestFramePermissions": []
+}
